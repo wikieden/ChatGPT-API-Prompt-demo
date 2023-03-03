@@ -17,6 +17,7 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
     ```
     OPENAI_API_KEY=sk-xxx...
     ```
+    or Add OPENAI_API_KEY Environment Variables in your deployment environment
 4. Run the app
     ```shell
     npm run dev
@@ -25,3 +26,4 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
 ## License
 
 MIT
+
